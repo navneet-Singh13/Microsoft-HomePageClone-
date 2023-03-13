@@ -269,7 +269,7 @@ ul{
 
     }
     .main-nav ul.main-menu.show{ 
-        transition:  linear 0.257645s ; 
+        transition:  linear 0.157645s ; 
          transform: translateX(-20px);
     }
     .main-nav ul.main-menu li { 
